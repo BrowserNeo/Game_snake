@@ -1,1 +1,4 @@
-# Game_snake
+# My favorite game - SNAKE 
+
+
+ html, js
