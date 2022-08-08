@@ -1,4 +1,4 @@
-# game - SNAKE 
+# browser game - SNAKE 
 
 
  html, js
