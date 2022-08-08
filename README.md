@@ -1,4 +1,4 @@
-# My favorite game - SNAKE 
+# game - SNAKE 
 
 
  html, js
