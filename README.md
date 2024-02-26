@@ -1,3 +1,4 @@
+Note
 # browser game - SNAKE 
 
 
